@@ -1,0 +1,18 @@
+C:\Users\Kevin\Source\Repos\RESERVACIONES\DAO\bin\Debug\DAO.dll
+C:\Users\Kevin\Source\Repos\RESERVACIONES\DAO\bin\Debug\DAO.pdb
+C:\Users\Kevin\Source\Repos\RESERVACIONES\DAO\bin\Debug\Entidades.dll
+C:\Users\Kevin\Source\Repos\RESERVACIONES\DAO\bin\Debug\Entidades.pdb
+C:\Users\Kevin\Source\Repos\RESERVACIONES\DAO\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Kevin\Source\Repos\RESERVACIONES\DAO\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Source\Repos\RESERVACIONES\DAO\obj\Debug\DAO.dll
+C:\Users\Kevin\Source\Repos\RESERVACIONES\DAO\obj\Debug\DAO.pdb
+C:\Users\Kevin\Source\Repos\RESERVACIONES\DAO\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\DAO\bin\Debug\DAO.dll
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\DAO\bin\Debug\DAO.pdb
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\DAO\bin\Debug\Entidades.dll
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\DAO\bin\Debug\Entidades.pdb
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\DAO\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\DAO\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\DAO\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\DAO\obj\Debug\DAO.dll
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\DAO\obj\Debug\DAO.pdb

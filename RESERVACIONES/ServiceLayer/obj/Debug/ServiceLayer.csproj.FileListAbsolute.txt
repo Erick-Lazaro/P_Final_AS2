@@ -1,0 +1,22 @@
+C:\Users\Kevin\Source\Repos\RESERVACIONES\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\Kevin\Source\Repos\RESERVACIONES\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\Kevin\Source\Repos\RESERVACIONES\ServiceLayer\bin\Debug\DAO.dll
+C:\Users\Kevin\Source\Repos\RESERVACIONES\ServiceLayer\bin\Debug\Entidades.dll
+C:\Users\Kevin\Source\Repos\RESERVACIONES\ServiceLayer\bin\Debug\DAO.pdb
+C:\Users\Kevin\Source\Repos\RESERVACIONES\ServiceLayer\bin\Debug\Entidades.pdb
+C:\Users\Kevin\Source\Repos\RESERVACIONES\ServiceLayer\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Kevin\Source\Repos\RESERVACIONES\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Source\Repos\RESERVACIONES\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Users\Kevin\Source\Repos\RESERVACIONES\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\Kevin\Source\Repos\RESERVACIONES\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\ServiceLayer\bin\Debug\DAO.dll
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\ServiceLayer\bin\Debug\Entidades.dll
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\ServiceLayer\bin\Debug\DAO.pdb
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\ServiceLayer\bin\Debug\Entidades.pdb
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\ServiceLayer\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\ServiceLayer\obj\Debug\ServiceLayer.pdb

@@ -1,0 +1,12 @@
+C:\Users\Kevin\Source\Repos\RESERVACIONES\Entidades\bin\Debug\Entidades.dll
+C:\Users\Kevin\Source\Repos\RESERVACIONES\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Kevin\Source\Repos\RESERVACIONES\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Kevin\Source\Repos\RESERVACIONES\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Source\Repos\RESERVACIONES\Entidades\obj\Debug\Entidades.dll
+C:\Users\Kevin\Source\Repos\RESERVACIONES\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\Entidades\bin\Debug\Entidades.dll
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\Entidades\obj\Debug\Entidades.dll
+C:\Users\Erick Lazaro\Desktop\P_Final_AS2\RESERVACIONES\Entidades\obj\Debug\Entidades.pdb
